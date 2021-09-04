@@ -13,5 +13,5 @@ body{
 }
 #canvas{
     background-color: #fff;
-    box-shadow: 0 0 1px #000;
+    box-shadow: 0 0 10px #000;
 }
